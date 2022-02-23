@@ -27,6 +27,7 @@ url: "http://harshalsingh.com" # the base hostname & protocol for your site, e.g
 twitter_username: harshal____
 github_username:  jekyll
 logo: /images/2020_profile_circle_small.png
+favicon: true
 
 # Build settings
 remote_theme: BDHU/minimalist
