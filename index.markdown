@@ -7,7 +7,7 @@ layout: default
 
 # About Me
 
-I'm Harshal! I'm currently working on something new.
+I'm Harshal! 
 
 I previously built [Troav](troav.com), a rapid delivery startup. Before that, I studied Computer Science at Harvard University (c/o 2020).
 
