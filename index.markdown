@@ -9,6 +9,6 @@ layout: default
 
 I'm Harshal! 
 
-I previously built [Troav](troav.com), a rapid delivery startup. Before that, I studied Computer Science at Harvard University (c/o 2020).
+I previously built [Troav](https://troav.com/), a rapid delivery startup. Before that, I studied Computer Science at Harvard University (c/o 2020).
 
 
