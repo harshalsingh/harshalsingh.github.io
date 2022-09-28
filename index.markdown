@@ -7,7 +7,7 @@ layout: default
 
 # About Me
 
-I'm Harshal! I'm building something [new](https://satalpha.com/).
+I'm Harshal! I'm working on something new.
 
 I previously built [Troav](https://troav.com/), a rapid delivery startup. Before that, I studied Computer Science at Harvard University (c/o 2020).
 
