@@ -7,5 +7,5 @@ layout: default
 
 # Blog
 
-[Reflections on Troav, my Delivery Startup](http://harshalsingh.com/troav.md)
+[Reflections on Troav, my Delivery Startup](http://harshalsingh.com/troav)
 
