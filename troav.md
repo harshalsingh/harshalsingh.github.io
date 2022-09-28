@@ -17,7 +17,7 @@ One question we got a lot was, “Who needs 10 minute delivery”. We looked at 
 
 And we saw the same thing with our customers - reorder rates were best-in-class, and we got rave reviews. Fast delivery is a product people want, and a behavior they became accustomed to. People would tell us time and time again that 2 day delivery and even 1 hour delivery started to feel slow, and they hated planning around it.
 
-What didn’t work
+### What didn’t work
 
 So what didn’t work? We boiled it down to two things: Strategy and Capital.
 
