@@ -35,6 +35,6 @@ Capital is a moat in an asset-heavy business like this. High Opex and relatively
 
 We should have committed to raising large amounts of capital with the intention of growing quick and getting customers in volume, even with bad scale economics at the start. But with full hindsight, that realization should’ve prompted us to focus on an area more aligned with our strengths.
 
-I wouldn’t trade this experience for anything else. I think we did a lot of things right, but there are a lot of things I’d do differently. I’m taking all those lessons and applying it to our next venture - a software product for renewable energy companies. If you’ve read this far, thanks :) I can be reached at harshal@satalpha.com
+I wouldn’t trade this experience for anything else. I think we did a lot of things right, but there are a lot of things I’d do differently. I’m taking all those lessons and applying it to our next venture - a software product for renewable energy construction. If you’ve read this far, thanks :) I can be reached at harshal@fliteworks.com
 
 *Note that most of these takeaways are only applicable to the USA market. Labor costs, CAC, SKU selection etc. all differ greatly across markets and regions.*
