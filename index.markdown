@@ -9,6 +9,6 @@ layout: default
 
 I'm Harshal!
 
-I previously built [Troav](https://troav.com/), a rapid delivery startup and [Fliteworks](https://fliteworks.com/). Before that, I studied Computer Science at Harvard University (c/o 2020).
+I previously built [Troav](https://www.instagram.com/troavdelivery/?hl=en), a rapid delivery startup and [Fliteworks](https://fliteworks.com/). Before that, I studied Computer Science at Harvard University (c/o 2020).
 
 
