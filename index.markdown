@@ -7,8 +7,8 @@ layout: default
 
 # About Me
 
-I'm Harshal! I'm working on something [new](https://fliteworks.com/).
+I'm Harshal!
 
-I previously built [Troav](https://troav.com/), a rapid delivery startup. Before that, I studied Computer Science at Harvard University (c/o 2020).
+I previously built [Troav](https://troav.com/), a rapid delivery startup and [Fliteworks](https://fliteworks.com/). Before that, I studied Computer Science at Harvard University (c/o 2020).
 
 

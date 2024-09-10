@@ -7,5 +7,7 @@ layout: default
 
 # Blog
 
+[The Magnus Drone](http://harshalsingh.com/magnus_drone)
 [Reflections on Troav, my Delivery Startup](http://harshalsingh.com/troav)
+[My 2015 Quadcopter Build](http://harshalsingh.com/2015_drone)
 

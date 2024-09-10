@@ -18,8 +18,11 @@ Cool stuff I've found on the Internet:
 
 ### Products I Love
 - [Copilot Financial Tracking](https://copilot.money/)
-- [Batch](https://www.getbatch.com/)
+- [Prusa 3D Printer Family](https://www.prusa3d.com/)
 - [KK Flight Control Board](https://www.amazon.com/powerday-KK2-1-5-Flight-Control-Multi-Rotor/dp/B07Q2TT2WH)
-- [Finary](https://about.finary.io/)
-- [Sora Identity Verification](sora.id)
+- [Sora Identity Verification (acq, Clear)](sora.id)
 - [Bumblebee Spaces](https://bumblebeespaces.com/)
+
+### Products I Loved
+- [Batch](https://www.getbatch.com/)
+- [Finary](https://about.finary.io/)
