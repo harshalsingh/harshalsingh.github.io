@@ -26,7 +26,7 @@ My next steps are to think about material selection and weight, which will tell 
 Started my initial research into the science behind the Magnus Effect, and what existing designs look like.
 
 [KFC Magnus Effect](https://www.youtube.com/watch?v=K6geOms33Dk&t=34s)\
-[ProjectAir Drone](https://www.youtube.com/watch?v=UG2O_GK7-R8)\
+[ProjectAir Drone](https://www.youtube.com/watch?v=UG2O_GK7-R8)
 
 I decided to create some requirements for my design. It must:
 - Be able to fly for 15 minutes
