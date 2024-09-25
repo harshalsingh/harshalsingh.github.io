@@ -5,7 +5,7 @@ I saw a [video](https://youtu.be/2OSrvzNW9FE?si=NyNs1y7tYsvRngFQ) of the Magnus 
 ## Journal
 
 
-*September 4 2024*
+*September 21 2024*
 
 Got started on my Magnus Project by learning about the lift formula at play, and a rudimentary design.
 
@@ -21,7 +21,7 @@ I've left the sizing to be very rough at the moment, as I better understand the 
 My next steps are to think about material selection and weight, which will tell me the size of the cylinders I should be looking at.
 
 
-*September 2 2024*
+*September 17 2024*
 
 Started my initial research into the science behind the Magnus Effect, and what existing designs look like.
 
@@ -43,7 +43,7 @@ I really enjoyed the ProjectAir video, he gives a ton of insights into his own d
 
 **The Magnus Effect**
 
-![Design 1](/images/magnus_diagram.png)
+![Design 1](/images/magnus_diagram_2.jpg)
 
 One thing that immediately sticks out is that there isn't much functional benefit in the effect vs the Bernoulli Principle. However, the cool feature is that the lift can be generated in any orientation of the cylinders, provided there is airflow through it. I've always found traditional winged VTOL designs to be inelegant, where the wing is parallel to the multirotor props.
 
